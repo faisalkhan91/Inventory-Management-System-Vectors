@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1481863692 source:c:\users\faisa\desktop\codeblocks files\vectorsitemclass\itemlist.cpp
+	<iostream>
+	<fstream>
+	"ItemList.h"
+	"Item.h"
+
+1481863682 c:\users\faisa\desktop\codeblocks files\vectorsitemclass\itemlist.h
+	<vector>
+	"Item.h"
+
+1481863623 c:\users\faisa\desktop\codeblocks files\vectorsitemclass\item.h
+	<string>
+
+1481849227 source:c:\users\faisa\desktop\codeblocks files\vectorsitemclass\main.cpp
+	<iostream>
+	"Item.h"
+	"ItemList.h"
+
+1481863651 source:c:\users\faisa\desktop\codeblocks files\vectorsitemclass\item.cpp
+	<iostream>
+	<iomanip>
+	"Item.h"
+	"ItemList.h"
+
+1481863827 source:c:\users\faisa\desktop\programs\vectorsitemclass\item.cpp
+	<iostream>
+	<iomanip>
+	"Item.h"
+	"ItemList.h"
+
+1481863623 c:\users\faisa\desktop\programs\vectorsitemclass\item.h
+	<string>
+
+1482379188 c:\users\faisa\desktop\programs\vectorsitemclass\itemlist.h
+	<vector>
+	"Item.h"
+
+1482379188 source:c:\users\faisa\desktop\programs\vectorsitemclass\itemlist.cpp
+	<iostream>
+	<fstream>
+	"ItemList.h"
+	"Item.h"
+
+1482379197 source:c:\users\faisa\desktop\programs\vectorsitemclass\main.cpp
+	<iostream>
+	"Item.h"
+	"ItemList.h"
+
